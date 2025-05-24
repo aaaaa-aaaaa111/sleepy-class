@@ -2,7 +2,6 @@
 <html lang="ko">
   <head>
                   <meta charset="UTF-8">
-                <title>수업시간에 졸리다면:난이도별</title>
   </head>
   <body>
     <h1>수업시간에 졸린다면?</h1>
